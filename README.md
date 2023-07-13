@@ -19,8 +19,11 @@ plyfile 0.7.1
 
 # Aufbau
 Dieses repository enthält drei Varianten des Algorithmus und zwei Dateien mit Funktionen. 
+\n
 elipse_main_functions.py
+\n
 elipse_main_functions_big.py
+\n
 Hier sind die Funktionen gespeichert.
 
 fibre_elipse.py ist der vollständige Algotrithmus. Die beiden anderen Varienten enthalten jeweils nur einige Funtionen des Algorithmus.
