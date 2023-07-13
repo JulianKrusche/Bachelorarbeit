@@ -40,7 +40,7 @@ Für eine detaillierte Erklärung der Funktionsweise des Programms sei auf meine
 ![image](https://github.com/JulianKrusche/Bachelorarbeit/assets/74180794/75815fad-4c24-4625-a9b6-f8aeb0e3810c)<br />
 10c.   Falls die kleinere Carbonfasern nicht achsenparallel ist, wird eine äquivalente Grafik erzeugt; das Fortführen des Programms kann über das Terminal bestimmt werden<br />
 10d.   Falls der Abstand der Punkte zur Regressionsgerade zu hoch ist, wird ebenfalls eine entsprechende Grafik erzeugt; das Fortführen des Programms kann über das Terminal bestimmt werden<br />
-11. Im Terminal werden die Richtungen der Fasern angegeben. Anschließend werden die gesamten Ergebnisse ausgegeben
+11. Im Terminal werden die Richtungen der Fasern angegeben. Anschließend werden die gesamten Ergebnisse ausgegeben<br />
     ![image](https://github.com/JulianKrusche/Bachelorarbeit/assets/74180794/837f276d-7eb0-4f17-b46a-a0169c3fd571)<br />
 12. Zur Kontrolle wird eine Grafik mit den elliptischen Zylindern und ein Grafik des Querschnitts mit markierter Ober- und Unterkante erstellt
 13. Abschließend kann über den Terminal entschieden werden, ob die Ergebnisse exportiert (.txt oder.csv) werden sollen. Die Datei wird im im selben Ordner gespeichert in der fibre_ellipse.py gespeichert ist.
