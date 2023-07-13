@@ -35,7 +35,6 @@ Für eine detaillierte Erklärung der Funktionsweise des Programms sei auf meine
 7. Datei anklicken und unten rechts auf "öffnen" klicken (Dateityp: .csv oder .ply)
 8. Zweites Datei Explorer Fenster: Auswahl Querschnitt [Betonprobe]; es können mehrere Querschnitte ausgewählt werden, dies führt allerdings zu längerer Programmdauer (Dateityp: .png oder .tiff)
 9. Drittes Datei Explorer Fenster: Auswahl Querschnitt [Carbonfaser] (Dateityp: .png oder .tiff)<br />
-<br />
 10a.   Falls die Punktwolke mehr als 50 Millionen Punkte enthält, wird eine automatische Reduktion empfohlen (siehe Terminal)<br />
 10b.   Falls die größere Carbonfasern nicht achsenparallel ist, wird die folgende Grafik erzeugt; das Programm endet anschließend<br />
 ![image](https://github.com/JulianKrusche/Bachelorarbeit/assets/74180794/75815fad-4c24-4625-a9b6-f8aeb0e3810c)<br />
