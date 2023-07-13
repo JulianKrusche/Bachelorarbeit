@@ -1,9 +1,8 @@
-# Bachelorarbeit
+# Bachelorarbeit: Bildgebende Verfahren zur Modellierung von Carbonbeton
 Algorithmus zur Ableitung der wesentlichen Geometrieeigenschaften von Carbonfasern
 
 # Übersicht
 In diesem GitHub repository ist der Algorithmus hinterlegt, welcher im Rahmen meiner Bachelorarbeit entstanden ist. Das Program ist in der python Version 3.11.3 geschrieben. Im folgenden wird die Anwendung erklärt.
-
 
 # Dependecies
 Folgende Pakete müssen installiert werden. Die Paketversion dient nur zur Sicherheit, falls unter Updates die Funktionen des Programms nicht länger funktionieren.
@@ -52,6 +51,4 @@ In dieser Version wird nur die Punktwolke berechnet. Somit werden zu Beginn kein
 
 fibre_ellipse_just_data_no_check.py <br />
 In dieser Version fallen zusätzlich die Sicherheitsmaßnahmen raus. Da aus diesem Grund auch die Achsen nicht automatische erkannt werden können, müssen diese manuell eingegeben werden. Diese können in Zeile 28 und 29 angegeben werden. Die Ergebnisse dieser Version können fehlerhaft sein und sollten auf ihre Plausabilität und über die erzeugte Endgrafik kontrolliert werden.
-
-
 
