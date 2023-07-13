@@ -4,7 +4,7 @@ Algorithmus zur Ableitung der wesentlichen Geometrieeigenschaften von Carbonfase
 # Übersicht
 In diesem GitHub repository ist der Algorithmus hinterlegt, welcher im Rahmen meiner Bachelorarbeit entstanden ist. Das Program ist in der python Version 3.11.3 geschrieben. Im folgenden wird die Anwendung erklärt.
 
-# Dependecies
+# Dependencies
 Folgende Pakete müssen installiert werden. Die Paketversion dient nur zur Sicherheit, falls unter Updates die Funktionen des Programms nicht länger funktionieren.
 
 matplotlib 3.7.1  <br />
